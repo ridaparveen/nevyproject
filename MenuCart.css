@@ -1,0 +1,22 @@
+.main_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 1px solid;
+     justify-content: left  ;
+}
+.sliderBox{
+width: "40%";
+border-width: 1px solid red;
+}
+.alert alert-primary{
+    background-color: aliceblue;
+}
+ 
+
+.searchBar{
+    display: flex;
+    width: 300vh;
+    /* border: 1px solid red; */
+    align-self: flex-end;
+}
